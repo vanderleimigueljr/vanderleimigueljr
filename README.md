@@ -1,5 +1,6 @@
 ### Olá! Eu sou Vanderlei Miguel, Desenvolvedor;
 - Atualmente trabalho como Analista e Desenvolvedor TOTVS Protheus
+- Formado em Analise e Desenvolvimento de Sistemas;
 - Formado em Tecnologia em Mecatronica;
 - MBA em Gestão de Projetos
 
